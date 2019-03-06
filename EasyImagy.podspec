@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "EasyImagy"
-    s.version      = "0.2.0"
+    s.version      = "0.5.2"
     s.summary      = "Easy manipulate pixel images"
     s.author       = { "koher" => "" }
     s.homepage     = "https://github.com/koher/EasyImagy"
